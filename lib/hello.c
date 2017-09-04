@@ -6,6 +6,6 @@ int main(){
 	
 	printmovie();
 	
-    printf("Hello Jack & Rose!\n");
+    printf("Hello Jack & Anna!\n");
     return 0;
 }
