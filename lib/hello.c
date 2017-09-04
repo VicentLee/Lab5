@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
     //this is just a comment
-    printf("Hello Jack & Rose!\n");
+    printf("Hello Jack & Anna!\n");
     return 0;
 }
